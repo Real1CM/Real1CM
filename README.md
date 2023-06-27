@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Real1CM
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning React
-- 💞️ Sorry for my awful code. I'm trying to work better.
 - 📫 You can contact with me on my mail: liangchenmingg3er@Gmail.com
 
 <!---
