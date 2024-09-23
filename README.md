@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Real1CM
-- 📫 You can contact with me on my mail: liangchenmingg3er@Gmail.com
+- 👋 Hi, I’m Chenming Liang
+- 📫 You can contact with me on my mail: liangchenmingg3er@Gmail.com or 202408120021142@ctgu.edu.cn
 
 <!---
 Real1CM/Real1CM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
