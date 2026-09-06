@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chenming Liang
+- 👋 Hi, I’m Chenming Liang (梁宸铭)
 - 📫 You can contact with me on my mail: liangchenmingg3er@Gmail.com or thisislcm@163.com
 
 <!---
